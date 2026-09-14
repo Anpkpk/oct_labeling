@@ -3,3 +3,5 @@ numpy
 gradio
 scipy
 skimage
+scikit-image
+PyWavelets
